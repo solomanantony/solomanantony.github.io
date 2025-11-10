@@ -29,10 +29,12 @@ body {
 }
 
 :root {
-    --bg-color: #1f242d;
-    --second-bg-color: #323946;
-    --text-color: #fff;
-    --main-color: #0ef;
+     --bg-color: #181621;
+  --second-bg-color: #231f2b;
+  --text-color: #f5f5f5;
+  --main-color: #9b5de5;         
+  --main-hover: #7e3ace;
+  --accent-color: #00f5d4;
 }
 
 html {
@@ -475,4 +477,5 @@ span {
         text-align: center;
         margin-top: 2rem;
     }
+
 }
